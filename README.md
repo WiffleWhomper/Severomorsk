@@ -43,6 +43,6 @@ If you're already calling other custom JSONs to spawn items or buildings, separa
 
 "objectSpawnersArr": ["custom/example1.json", "custom/example2.json", "custom/example3.json"] 
 
-restart your server and the new store will spawn with all items ready for use.
+restart your server and the new file will spawn with all items ready for use.
 
 Thanks, and happy gaming! Created by @WiffleWhomper For support or inquiries: c.lindberg823@gmail.com
